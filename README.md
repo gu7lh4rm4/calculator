@@ -1,5 +1,5 @@
 # Calculadora JavaScript
 
 #Projeto Calculadora - Udemy
-</b>
+</br>
 Aluno Guilherme Cunha de Almeida
